@@ -5,5 +5,5 @@ let num3 = parseInt (prompt ('Me informe o número 3:'));
 let resultadosoma = num1 + num2 + num3;
 let media = resultadosoma / 3;
 
-console.log (' O resultado da soma é:' + media);
+console.log (' O resultado da média é:' + media);
  
